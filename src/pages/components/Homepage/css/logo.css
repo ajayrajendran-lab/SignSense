@@ -1,0 +1,28 @@
+.logo{
+    /* padding-left: 3.5rem; */
+    padding-top: 3.5rem;
+    padding-bottom: 2.5rem;
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+    user-select: none;
+}
+.sign , .sense{
+    margin: 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.sign{
+    border-top: 5px solid#147DC8;
+    color: #147dc8;
+    border-bottom: 5px solid#147DC8;
+    margin-right: 5px;
+}
+.sense{
+    background-color: #147DC8;
+    border: 5px solid#147DC8;
+}
